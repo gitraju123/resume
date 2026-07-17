@@ -1,0 +1,40 @@
+﻿{
+  "personal": {
+    "name": "",
+    "title": "",
+    "roles": [],
+    "bio": "",
+    "birthDate": "",
+    "email": "",
+    "phone": "",
+    "address": "",
+    "languages": [],
+    "linkedin": "",
+    "github": "",
+    "cvUrl": "",
+    "profileImage": "",
+    "expSummary": "",
+    "availability": ""
+  },
+  "stats": [],
+  "skills": [],
+  "experience": [],
+  "education": [],
+  "projects": [],
+  "certificates": [],
+  "contact": {
+    "address": "",
+    "email": "",
+    "phone": "",
+    "availability": ""
+  },
+  "meta": {
+    "siteTitle": "",
+    "siteDescription": "",
+    "keywords": "",
+    "githubOwner": "",
+    "githubRepo": "",
+    "siteUrl": "",
+    "maintenance": false
+  }
+}
