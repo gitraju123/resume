@@ -283,7 +283,48 @@
       "image": ""
     }
   ],
-  "certificates": [],
+  "certificates": [
+    {
+      "id": 1784463611979,
+      "title": "AWS Certificate SysOps Administrator - Associate",
+      "issuer": "AWS",
+      "date": "17/01/2025",
+      "credentialId": "",
+      "credentialUrl": "",
+      "description": "",
+      "image": "images/certificates/1784463958604_Screenshot 2026-07-19 173925.png"
+    },
+    {
+      "id": 1784463680173,
+      "title": "AWS Certified Cloud Practitioner",
+      "issuer": "AWS",
+      "date": "27/01/2024",
+      "credentialId": "",
+      "credentialUrl": "",
+      "description": "",
+      "image": "images/certificates/1784463961368_Screenshot 2026-07-19 174005.png"
+    },
+    {
+      "id": 1784463750699,
+      "title": "AI Tools",
+      "issuer": "be10x",
+      "date": "24/05/2026",
+      "credentialId": "",
+      "credentialUrl": "",
+      "description": "",
+      "image": "images/certificates/1784463964385_Screenshot 2026-07-19 174148.png"
+    },
+    {
+      "id": 1784463805970,
+      "title": "Generative Ai Mastermind",
+      "issuer": "Outskill",
+      "date": "02/04/2026",
+      "credentialId": "",
+      "credentialUrl": "",
+      "description": "",
+      "image": "images/certificates/1784463967053_Screenshot 2026-07-19 174316.png"
+    }
+  ],
   "contact": {
     "address": "",
     "email": "",
